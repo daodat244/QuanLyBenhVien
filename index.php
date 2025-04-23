@@ -80,11 +80,7 @@ function checklen()
                 <div class="row">
                     <div class="col-md-3 register-left" style="margin-top: 10%;right: 5%">
                         <img src="https://image.ibb.co/n7oTvU/logo_white.png" alt=""/>
-<<<<<<< HEAD
-                        <h3>Xin Chao4</h3>                       
-=======
                         <h3>Xin Chao5</h3>                       
->>>>>>> TienDat
                     </div>
                     <div class="col-md-9 register-right" style="margin-top: 40px;left: 80px;">
                         <ul class="nav nav-tabs nav-justified" id="myTab" role="tablist" style="width: 40%;">
